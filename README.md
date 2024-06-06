@@ -32,9 +32,8 @@ The characteristics of this string are:
 - A space is used as a separator between cards
 
 ### Tests
-The repository includes a suite of unit tests that can be used to verify the correctness of your solution. It's 
-not feasible to write a test for every possible combination of poker hands, but you are welcome to add additional test
-cases to the suite but please don't remove or modify any of those provided. 
+The repository includes a basic suite of unit tests that should be used to verify the correctness of your solution. You are encouraged to add additional test
+cases to the suite, but please don't remove or modify any of those provided. 
 
 The tests can be run by executing `./gradlew test` on the command-line from the project's root directory.
 
